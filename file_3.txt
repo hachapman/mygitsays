@@ -2,3 +2,6 @@ this
 is 
 a 
 test file 3
+this text
+was entered
+by Hansah Chapman
